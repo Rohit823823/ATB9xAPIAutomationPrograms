@@ -1,4 +1,4 @@
-package ex_01sampleCheck;
+package com.therohitsahu.ex_01sampleCheck;
 
 public class APITesting004_BuilderPattern {
 

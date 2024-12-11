@@ -1,4 +1,4 @@
-package ex_01sampleCheck;
+package com.therohitsahu.ex_01sampleCheck;
 import io.restassured.RestAssured;
 public class APITesting002 {
     public static void main(String[] args) {
