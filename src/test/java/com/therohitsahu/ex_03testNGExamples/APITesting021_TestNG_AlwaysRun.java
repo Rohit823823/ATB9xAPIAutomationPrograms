@@ -1,4 +1,4 @@
-package com.therohitsahu.ex_04testNGExamples;
+package com.therohitsahu.ex_03testNGExamples;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 public class APITesting021_TestNG_AlwaysRun {

@@ -1,4 +1,4 @@
-package com.therohitsahu.ex_04testNGExamples;
+package com.therohitsahu.ex_03testNGExamples;
 import org.testng.annotations.Test;
 public class APITesting015_TestNG {
     @Test(priority = 1)

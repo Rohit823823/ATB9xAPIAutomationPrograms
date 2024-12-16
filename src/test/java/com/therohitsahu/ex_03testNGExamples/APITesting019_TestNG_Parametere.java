@@ -1,4 +1,4 @@
-package com.therohitsahu.ex_04testNGExamples;
+package com.therohitsahu.ex_03testNGExamples;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 public class APITesting019_TestNG_Parametere {

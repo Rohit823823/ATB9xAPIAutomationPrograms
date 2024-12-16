@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Dell/IdeaProjects/ATB9xAPIAutomationPrograms">
         <classes>
-            <class name="com.therohitsahu.ex_04testNGExamples.APITesting016_TestNG_Groups">
+            <class name="com.therohitsahu.ex_03testNGExamples.APITesting016_TestNG_Groups">
             </class>
         </classes>
     </test>
