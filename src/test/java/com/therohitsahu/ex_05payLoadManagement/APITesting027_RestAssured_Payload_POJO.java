@@ -7,8 +7,7 @@ import io.restassured.specification.RequestSpecification;
 import org.hamcrest.Matchers;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import java.util.LinkedHashMap;
-import java.util.Map;
+
 import static org.assertj.core.api.Assertions.assertThat;
 public class APITesting027_RestAssured_Payload_POJO {
     RequestSpecification requestSpecification;
@@ -58,7 +57,7 @@ public class APITesting027_RestAssured_Payload_POJO {
         booking.setTotalprice(112);
         booking.setDepositpaid(false);
 
-        BookingDates bookingdates = new BookingDates();
+        Bookingdates bookingdates = new Bookingdates();
         bookingdates.setCheckin("2024-02-01");
         bookingdates.setCheckout("2024-02-01");
         booking.setBookingdates(bookingdates);
